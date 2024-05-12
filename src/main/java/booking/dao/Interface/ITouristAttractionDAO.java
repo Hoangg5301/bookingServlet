@@ -1,4 +1,4 @@
-package booking.dao;
+package booking.dao.Interface;
 
 public interface ITouristAttractionDAO {
 

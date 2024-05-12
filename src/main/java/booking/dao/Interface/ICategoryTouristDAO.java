@@ -1,4 +1,4 @@
-package booking.dao;
+package booking.dao.Interface;
 import java.util.List;
 import booking.entity.CategoryTouristEntity;
 
